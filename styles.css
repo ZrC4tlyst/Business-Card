@@ -1,0 +1,33 @@
+body {
+  margin: 20px;
+}
+
+.card {
+  display: flex;
+  width: 500px;
+  gap: 100px;
+  justify-content: space-around;
+  padding: 40px;
+  margin: 0, auto;
+  text-align: center;
+  background-color: #fca311;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 10px solid #14213d;
+  font-size: 20px;
+  color: #14213d;
+}
+
+.card-details {
+  padding: 5px;
+  line-height: 15px;
+}
+
+.profile-picture {
+  width: 150px;
+}
+
+.italic {
+  font-style: italic;
+  font-weight: bold;
+}
+
